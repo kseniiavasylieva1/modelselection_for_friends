@@ -1,4 +1,4 @@
-# modelselecetion_for_friends
+# model selection for friends :)
 ... you might need to install scikit-learn:
 
 ```zsh
