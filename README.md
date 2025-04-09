@@ -1,2 +1,6 @@
 # modelselecetion_for_friends
-model selection via sklearn
+... you might need to install scikit-learn:
+
+```zsh
+conda install conda-forge::scikit-learn
+```
